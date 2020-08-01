@@ -1,0 +1,19 @@
+.lower-content {
+    color: rgb(8, 224, 170);
+    height: 50vh;
+}
+
+body {
+    background-color: lightslategray;
+}
+
+.bottom-bordered {
+    border-bottom: maroon 20px solid;
+}
+
+.floating-menu {
+    position: fixed;
+    top: 0;
+    left: 35%;
+    width: 100%;
+}
