@@ -1,19 +1,19 @@
 .lower-content {
-    color: rgb(8, 224, 170);
+    color: rgb(255, 115, 0);
     height: 50vh;
 }
 
 body {
-    background-color: lightslategray;
+    background-color: rgb(236, 236, 236);
 }
 
 .bottom-bordered {
-    border-bottom: maroon 20px solid;
+    border-bottom: black 20px solid;
 }
 
 .floating-menu {
     position: fixed;
     top: 0;
-    left: 35%;
+    left: 20%;
     width: 100%;
 }
