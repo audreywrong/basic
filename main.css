@@ -3,9 +3,18 @@
     src: url(C:\Users\audre\workspace\basic\assets\Alata-Regular.ttf);
   } */
 
+#background-video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
 .lower-content {
-    color: rgb(255, 115, 0);
+    color: rgb(255, 0, 0);
     height: 50vh;
+    position: relative;
 }
 
 body {
@@ -14,7 +23,9 @@ body {
 }
 
 .bottom-bordered {
-    border-bottom: black 20px solid;
+    color: white;
+    border-bottom: white 20px solid;
+    position: relative;
 }
 
 .floating-menu {
